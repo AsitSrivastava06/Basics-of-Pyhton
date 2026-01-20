@@ -1,4 +1,4 @@
-# 🐍 Basics of Python
+# Experiment : Basics of Python
 
 This repository contains **beginner-level Python programs** created to understand and practice **core Python fundamentals**.
 
